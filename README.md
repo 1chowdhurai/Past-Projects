@@ -1,1 +1,1 @@
-This repository includes some of my past projects, including the game 2048, made in Java Swing. To use it, run Game2048.java
+A GUI recreation of the classic mobile game 2048 in Java Swing. To play it, run Game2048.java, and use the arrow keys to play!
